@@ -1,4 +1,4 @@
 var number = 6;
 var nomber = 10;
-nomber * number = nhergher;
+nhergher = nomber * number
 console.log(nhergher);
