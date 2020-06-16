@@ -1,2 +1,3 @@
 *.phyl linguist-language=Phyl
 *.ppc linguist-language=Phyl
+obj.phyl -linguist-vendored
